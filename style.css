@@ -1,0 +1,49 @@
+.col-12{
+    height: 2rem ;
+    /* background-color: crimson; */
+    background-color: white;
+}
+.col-12-sm{
+ 
+    height: 38rem;
+    /* background-color: crimson; */
+    background-color: white;
+
+}
+.col-11{
+    height: 26rem;
+    /* background-color: crimson; */
+    background-color: white;
+}
+.col-12-lg{
+    height: 36rem;
+    /* background-color: crimson; */
+    background-color: white;
+}
+.col-2{
+    height: 2rem;
+    
+}
+.col-1{
+    height: 2rem;
+    
+}
+.col-3{
+    height: 24rem;
+    /* background-color: green; */
+    background-color: white;
+}
+.col-3-lg{
+    width: 16.2rem;
+    height: 20rem;
+    /* background-color:blue; */
+    background-color: white;
+}
+.col-9{
+    height: 28rem;
+    /* background-color: green; */
+    background-color: white;
+}
+.div{
+    width: 70rem;
+}
